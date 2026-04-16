@@ -1,5 +1,6 @@
 === Apr 14, 2026 ===
-- Add Sidebar 
+- Add Sidebar
+- Add CloneApps
 - Add GameSpace
 - And other updates.
 
