@@ -1,3 +1,7 @@
+=== May 11, 2026 ==
+- EROFS Kursial partision
+- Increase zram size from 55% to 60%
+
 === Apr 14, 2026 ===
 - Add Sidebar
 - Add CloneApps
