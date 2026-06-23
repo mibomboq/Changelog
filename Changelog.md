@@ -1,6 +1,6 @@
 === Jun 23, 2026 ===
 - Use Vulkan HWUI backend
-- thermal: fix cooling device mapping for mali-G57 MC2 GPU
+- thermal: fix cooling device mapping for mali-G57 MC2 GPU (shifts throttling to GPU)
 - Build mediaTek WiFi lib and enable OUI support on wpa_supplicant_8
 
 === May 11, 2026 ===
