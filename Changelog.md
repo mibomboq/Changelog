@@ -1,3 +1,10 @@
+=== Sep 1,2026 ===
+- Rework memtrack implementation
+- Introduce wlan_assistant
+- Rebase Hardware common
+- solve internal storage and camera record issues
+- Initial CP2A release.
+
 === Agu 6, 2026 ===
 - Add AIDL C2 service
 - compress EROFS lz4hc,9
