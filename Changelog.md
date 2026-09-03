@@ -1,6 +1,7 @@
 == Sep 3,2026 ==
 - Switch to the LATEST MSSI
 - Support Wi-Fi 6 (testd)
+- Include Dolby Atmos
 
 === Sep 1,2026 ===
 - Rework memtrack implementation
