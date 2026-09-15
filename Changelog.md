@@ -1,14 +1,17 @@
-== Sep 3,2026 ==
+== Sep 15,2026 ==
+- Add Pricam
+- pricam: bug Watermark
 - Switch to the LATEST MSSI
-- Support Wi-Fi 6 (testd)
-- Include Dolby Atmos
-
+- Support Wi-Fi 7 (testd)
+- Update Dolby Atmos !
+- dolby: Redesign UI with Material 3 Expressive colors
+- powerhint: tune for blur
+- Add New GameBar
+  
 === Sep 1,2026 ===
 - Rework memtrack implementation
 - Introduce wlan_assistant
 - Rebase Hardware common
-- solve internal storage and camera record issues
-- Initial CP2A release.
 
 === Agu 6, 2026 ===
 - Add AIDL C2 service
