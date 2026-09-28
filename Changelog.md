@@ -1,3 +1,14 @@
+== Sep 28,2026 ==
+- Overlay: Switch to AVC 3.1 for screen recording
+- Powerhint: Add min/max gpu freq nodes
+- Pricam
+  - Update NewIcon
+  - Sepolicy: fix camera watermark and property denials
+- Sepolicy: allow hal_power_default write mali devfreq sysfs
+- Hand back GPU Frequency control to gpufreqv2
+- Sepolicy: Allow libperfmgr to write to cpu_dma_latency_device
+- Drop Overlay Aperture
+
 == Sep 15,2026 ==
 - Add Pricam
 - pricam: bug Watermark
@@ -6,7 +17,6 @@
 - Update Dolby Atmos !
 - dolby: Redesign UI with Material 3 Expressive colors
 - powerhint: tune for blur
-- Add New GameBar
   
 === Sep 1,2026 ===
 - Rework memtrack implementation
