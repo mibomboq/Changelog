@@ -1,8 +1,16 @@
+=== Okt 25,2026 ===
+- Allow system to access cpu_dma_latency so the power HAL can
+request PM QoS latency constraints
+- Build mtkradioex and netdagent HIDL from source
+- Switch to common mediatek hidl audio service
+- Build Mediatek bluetooth audio interfaces from source
+
 === Sep 1,2026 ===
 - Rework memtrack implementation
 - Introduce wlan_assistant
 - Rebase Hardware common
 - solve internal storage and camera record issues
+- Ship with Aperture Camera
 - Initial CP2A release.
 
 === Agu 6, 2026 ===
