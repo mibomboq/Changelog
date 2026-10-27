@@ -4,6 +4,7 @@ request PM QoS latency constraints
 - Build mtkradioex and netdagent HIDL from source
 - Switch to common mediatek hidl audio service
 - Build Mediatek bluetooth audio interfaces from source
+- Declare wifi HAL wrapper struct is older than U QPR2
 
 === Sep 1,2026 ===
 - Rework memtrack implementation
