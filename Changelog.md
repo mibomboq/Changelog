@@ -1,3 +1,13 @@
+=== Nov 06,2026 ===
+- logtag: Silence GPUAUX logspam
+- overlay: Introduce MssiDeviceAsWebcamOverlay
+- vintf: Update IMmlpq interface to version 5
+- aidl: health: Bump AIDL HAL VINTF fragment to v5
+- Label vendor.debug.sf.kickidle properties
+- bringing back Pricam
+  - fix front camera problem
+  - bug 64MP mode.
+
 === Okt 25,2026 ===
 - Allow system to access cpu_dma_latency so the power HAL can
 request PM QoS latency constraints
