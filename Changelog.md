@@ -6,7 +6,7 @@
 - Label vendor.debug.sf.kickidle properties
 - bringing back Pricam
   - fix front camera problem
-  - bug 64MP mode.
+  - fix 64MP mode.
 
 === Okt 25,2026 ===
 - Allow system to access cpu_dma_latency so the power HAL can
