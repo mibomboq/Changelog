@@ -1,4 +1,9 @@
-== Sep 28,2026 ==
+=== Nov 23,2026 ===
+- Addressing VoLTE issues.
+- Fix WPA3 / disable NL80211_WPA_VERSION_3
+- Tune zRAM performance & zRAM backing device size to 1GB
+  
+=== Sep 28,2026 ===
 - Overlay: Switch to AVC 3.1 for screen recording
 - Powerhint: Add min/max gpu freq nodes
 - Pricam
@@ -9,7 +14,7 @@
 - Sepolicy: Allow libperfmgr to write to cpu_dma_latency_device
 - Drop Overlay Aperture
 
-== Sep 15,2026 ==
+=== Sep 15,2026 ===
 - Add Pricam
 - pricam: bug Watermark
 - Switch to the LATEST MSSI
